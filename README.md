@@ -1,2 +1,0 @@
-# ScientificTradeMatlab
-ScientificTradeMatlab
